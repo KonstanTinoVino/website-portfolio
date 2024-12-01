@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/css/main.3f1dec60.chunk.css",
-    "main.js": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/main.aa83fce1.chunk.js",
-    "main.js.map": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/main.aa83fce1.chunk.js.map",
-    "runtime-main.js": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/runtime-main.bc791724.js",
-    "runtime-main.js.map": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/runtime-main.bc791724.js.map",
-    "static/js/2.41a957c6.chunk.js": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/2.41a957c6.chunk.js",
-    "static/js/2.41a957c6.chunk.js.map": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/2.41a957c6.chunk.js.map",
-    "static/js/3.f6ecea0f.chunk.js": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/3.f6ecea0f.chunk.js",
-    "static/js/3.f6ecea0f.chunk.js.map": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/3.f6ecea0f.chunk.js.map",
-    "index.html": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/index.html",
-    "static/css/main.3f1dec60.chunk.css.map": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/css/main.3f1dec60.chunk.css.map",
-    "static/js/2.41a957c6.chunk.js.LICENSE.txt": "/%3Chttps://KonstanTinoVino.github.io/website-portfolio%3E/static/js/2.41a957c6.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.3f1dec60.chunk.css",
+    "main.js": "./static/js/main.aa83fce1.chunk.js",
+    "main.js.map": "./static/js/main.aa83fce1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.78daffac.js",
+    "runtime-main.js.map": "./static/js/runtime-main.78daffac.js.map",
+    "static/js/2.41a957c6.chunk.js": "./static/js/2.41a957c6.chunk.js",
+    "static/js/2.41a957c6.chunk.js.map": "./static/js/2.41a957c6.chunk.js.map",
+    "static/js/3.f6ecea0f.chunk.js": "./static/js/3.f6ecea0f.chunk.js",
+    "static/js/3.f6ecea0f.chunk.js.map": "./static/js/3.f6ecea0f.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3f1dec60.chunk.css.map": "./static/css/main.3f1dec60.chunk.css.map",
+    "static/js/2.41a957c6.chunk.js.LICENSE.txt": "./static/js/2.41a957c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc791724.js",
+    "static/js/runtime-main.78daffac.js",
     "static/js/2.41a957c6.chunk.js",
     "static/css/main.3f1dec60.chunk.css",
     "static/js/main.aa83fce1.chunk.js"
