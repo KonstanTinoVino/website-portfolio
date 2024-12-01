@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name":"Konstantin Petrov Ivanov",
+    "description":"I’m a Software Engineer based in London with 5 years of experience, primarily working with Java and Python. I specialize in integrating AI and machine learning techniques to enhance product functionality and drive innovation",
+    "image":"profile.jpg",
+    "bio":"I’m Konstantin, a Software Engineer with 5 years of experience specializing in back-end development. While I started with Java, I’ve recently shifted to Python as my primary development tool. I have a strong track record of designing scalable solutions, crafting efficient algorithms, and optimizing database performance. As an AI integration expert, I’ve successfully incorporated machine learning and AI techniques into projects to enhance functionality and drive innovation. I’m passionate about staying updated with the latest technologies and thrive in collaborative environments where I can tackle new challenges and continuously grow my skills.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ivanov.konstantin.ict@gmail.com",
+    "github":"https://github.com/KonstanTinoVino",
+    "resumedownload":"https://drive.google.com/file/d/1z0YUZuaHkujruoWuo9RHwBlaibHUIBjo/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"linkedin.com/in/konstantinpivanov",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/KonstanTinoVino",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"VIA University College",
+        "degree":"Bachelor's degree in Information Technology",
+        "graduated":"January 2019",
+        "description":"I gained a strong foundation in engineering principles and specialized knowledge in software development, focusing on areas like data engineering and interactive media. Through hands-on projects and electives, I advanced from designing single-user systems to developing complex IoT solutions, completing an internship, and working on a bachelor project that emphasized sustainability, digitalization, and innovation."
+      }
+    ],
+    "work":[
+      {
+        "company": "Stibo Systems",
+        "title": "Software Developer",
+        "years": "January 2022 - Present",
+        "description": "Led a team in designing, developing, and deploying an automatic classification solution on Azure for the STEP platform, reducing clients' manual classification efforts. Integrated Shopify into the PDX platform as a product distribution channel for clients to syndicate product information. Implemented the BMECat XML data standard for seamless information exchange between clients, PDX, and distribution channels. Additionally, maintained and developed UI functionalities using React JS for the Data-as-a-Service (DaaS) solution."
+      },
+      {
+              "company": "NTT DATA Europe & LATAM",
+              "title": "Solutions Analyst",
+              "years": "March 2019 - December 2021",
+              "description": "As a Solutions Analyst, I worked on multiple projects including Aqua3s, CORDIS, and RPaM. For Aqua3s, I designed technical architectures and implementation roadmaps, acted as a project integrator, and contributed as a technical writer using technologies like ArchiMate, TOGAF, and Docker. In the CORDIS project, I created and implemented curation scenarios, designed data enrichment tools, and built pipelines for entity curation service with Java, Spring Boot, Linked Open Data principles, and Apache NiFi. For RPaM, I contributed to ontology design, led the development of a simulation system, and structured user guides using XML, Java, and Schematron. My role emphasized integration, technical planning, and the use of diverse tools such as Docker, Kubernetes, and graph databases."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Spring",
+        "level":"60%"
+      },
+      {
+        "name":"GraphQL,",
+        "level":"80%"
+      },
+      {
+        "name":"Docker",
+        "level":"50%"
+      },
+      {
+        "name":"Azure",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "description": "My Travel Blog for my post-university travels",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "description": "My Travel Blog for my post-university travels",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "description": "My Travel Blog for my post-university travels",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
